@@ -1,0 +1,7 @@
+str1 = str(input("請輸入一小段英文:"))
+str2 = str1.replace('a', '.')
+str3 = str2.replace('e', '.')
+str4 = str3.replace('i', '.')
+str5 = str4.replace('o', '.')
+str6 = str5.replace('u', '.')
+print(str(str6))
